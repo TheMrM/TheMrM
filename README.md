@@ -13,10 +13,10 @@ I'm a skilled and versatile professional with a solid foundation in programming 
 
 ## 🚀 Experience
 
-### Foony Limited
+### [Foony Limited](https://foony.com)
 While at Foony Limited, I actively contributed to web development projects, delivering effective solutions while staying updated on the latest industry trends and technologies. This dual focus allowed me to support the company's technological growth.
 
-### Oportunitatisicariere.ro
+### [Oportunitatisicariere.ro](https://www.oportunitatisicariere.ro/acasa)
 At Oportunitatisicariere.ro, I showcased my technical prowess by conceptualizing, developing, and implementing 20 web scrapers using Python, Beautiful Soup, and Requests libraries. My commitment to optimizing data retrieval processes with precision and efficiency was evident in the successful development of a sophisticated web scraper tailored for eJobs.
 
 ### MApN (Ministry of National Defense)
