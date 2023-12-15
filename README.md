@@ -15,7 +15,7 @@ I'm a skilled and versatile professional with a solid foundation in programming 
   <img align="center" alt="Fer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
 
-  <div align="center">
+  <div align="center"><br>
   <a href="https://github.com/TheMrM">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheMrM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrM&layout=compact&langs_count=7&theme=dracula"/>
