@@ -2,7 +2,7 @@
 
 👋 Hello, I'm TheMrM!
 
-I'm a skilled and versatile professional with a solid foundation in programming and a strong focus on web development, networking, and virtualization. My expertise spans multiple languages, including Python, Bash, C++, and JavaScript.
+I am programming with a focus on web development, networking, and virtualization. My expertise spans multiple languages, including Python, Bash, C++, and JavaScript.
 
 ### 💻 Coding Languages
 
