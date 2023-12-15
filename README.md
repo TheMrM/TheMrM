@@ -21,7 +21,7 @@ I'm a skilled and versatile professional with a solid foundation in programming 
   
 ## 🔧 Skills
 
-- **Programming Languages:** Python | Bash | C++ | JavaScript
+ **Programming Languages:** Python | Bash | C++ | JavaScript
 - **Web Development:** Proficient in building web scrapers and conducting manual and automated testing to ensure accurate data collection.
 - **Networking:** Experienced in configuring Cisco servers, switches, and routers to ensure seamless connectivity and optimal network performance.
 - **Virtualization:** Skilled in using VMware and Oracle VirtualBox to create and manage virtual machines for testing and development purposes.
