@@ -4,11 +4,6 @@
 
 I'm a skilled and versatile professional with a solid foundation in programming and a strong focus on web development, networking, and virtualization. My expertise spans multiple languages, including Python, Bash, C++, and JavaScript.
 
-<div align="center">
-  <a href="https://github.com/Fernanda-Dantas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheMrM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrM&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -18,6 +13,13 @@ I'm a skilled and versatile professional with a solid foundation in programming 
   <img align="center" alt="Fer-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Fer-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Fer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  </div>
+
+  <div align="center">
+  <a href="https://github.com/TheMrM">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheMrM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrM&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
   
 ## 🔧 Skills
 
