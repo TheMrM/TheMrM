@@ -26,7 +26,7 @@ I'm a skilled and versatile professional with a solid foundation in programming 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Kali Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg">
+  <img align="center" alt="Kali Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali-linux/kali-linux-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
