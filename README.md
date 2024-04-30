@@ -2,7 +2,7 @@
 
 👋 Hello, I'm TheMrM!
 
-I am programming with a focus on web development, networking, and virtualization. My expertise spans multiple languages, including Python, Bash, C++, and JavaScript.
+I am programming with a focus on web development, networking, and virtualization. My expertise spans multiple languages, including Python, Bash, C, C++, and JavaScript.
 
 ### 💻 Coding Languages
 
