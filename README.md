@@ -2,7 +2,8 @@
 
 👋 Hello, I'm TheMrM!
 
-I am programming with a focus on web development, networking, and virtualization. My expertise spans multiple languages, including Python, Bash, C, C++, and JavaScript.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=467291" style='border:none;'></iframe>
+<iframe src="https://app.hackthebox.com/profile/199315" style="width: 100%; height: 600px; border: none;"></iframe>
 
 ### 💻 Coding Languages
 
