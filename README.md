@@ -2,8 +2,12 @@
 
 👋 Hello, I'm TheMrM!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=467291" style='border:none;'></iframe>
-<iframe src="https://app.hackthebox.com/profile/199315" style="width: 100%; height: 600px; border: none;"></iframe>
+## Hack The Box Profile
+
+[![Hack The Box Profile](https://img.shields.io/badge/HackTheBox-Profile-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/199315)
+
+![HTB Profile Screenshot](./images/hackthebox-profile.png)
+
 
 ### 💻 Coding Languages
 
