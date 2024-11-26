@@ -81,7 +81,7 @@ While at Foony Limited, I actively contributed to web development projects, deli
 
 ### [Oportunitatisicariere.ro](https://www.oportunitatisicariere.ro)
 - Developed 20+ web scrapers using Python, Beautiful Soup, and Requests libraries.
-- Designed a sophisticated web scraper tailored for eJobs, optimizing data retrieval processes. (CanBeViewedHere)[https://github.com/peviitor-ro/eJobs_scraper]
+- Designed a sophisticated web scraper tailored for eJobs, optimizing data retrieval processes. [CanBeViewedHere](https://github.com/peviitor-ro/eJobs_scraper)
 
 ### MApN (Ministry of National Defense)
 During my tenure at MApN, I played a crucial role in enhancing user productivity by installing and configuring IoT devices. Additionally, I set up servers with file transfer, email, and managed AD, applying policies and logs management to ensure system security. My participation in internal cybersecurity competitions demonstrated my expertise in identifying vulnerabilities and securing systems.
