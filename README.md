@@ -15,8 +15,9 @@ With a solid foundation in **Python scripting** and **network analysis**, I aspi
 [![Hack The Box Profile](https://img.shields.io/badge/HackTheBox-Profile-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/199315)
 
 ## Tryhackme Profile
-<img src="https://tryhackme-badges.s3.amazonaws.com/themrm.png" alt="Your Image Badge" />
-[![Tryhackme]](https://tryhackme.com/r/p/themrm)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/themrm.png)](https://tryhackme.com/r/p/themrm)
+
+
 
 ### 💻 Coding Languages
 
