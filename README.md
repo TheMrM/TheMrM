@@ -13,7 +13,9 @@ With a solid foundation in **Python scripting** and **network analysis**, I aspi
 
 ## LinkedIn
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mircea-maier-574171348/)
+<a href="https://www.linkedin.com/in/mircea-maier-574171348/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 
 ## Hack The Box Profile
