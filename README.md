@@ -11,12 +11,6 @@ I actively participate in **Capture The Flag (CTF)** challenges on platforms lik
 
 With a solid foundation in **Python scripting** and **network analysis**, I aspire to contribute as a full-time **Penetration Tester**, defending organizations against emerging cyber threats.
 
-## LinkedIn
-
-<a href="https://www.linkedin.com/in/mircea-maier-574171348/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
-</a>
-
 
 ## Hack The Box Profile
 
@@ -90,15 +84,18 @@ While at Foony Limited, I actively contributed to web development projects, deli
 
 ### [Oportunitatisicariere.ro](https://www.oportunitatisicariere.ro)
 - Developed 20+ web scrapers using Python, Beautiful Soup, and Requests libraries.
-- Designed a sophisticated web scraper tailored for eJobs, optimizing data retrieval processes. [CanBeViewedHere](https://github.com/peviitor-ro/eJobs_scraper)
+- Designed a sophisticated web scraper for eJobs, optimizing data retrieval processes. [CanBeViewedHere](https://github.com/peviitor-ro/eJobs_scraper)
 
 ### MApN (Ministry of National Defense)
-During my tenure at MApN, I played a crucial role in enhancing user productivity by installing and configuring IoT devices. Additionally, I set up servers with file transfer, email, and managed AD, applying policies and logs management to ensure system security. My participation in internal cybersecurity competitions demonstrated my expertise in identifying vulnerabilities and securing systems.
+During my tenure at MApN, I played a crucial role in enhancing user productivity by installing and configuring IoT devices. Additionally, I set up servers for file transfer and email and managed AD, applying policies and managing logs to ensure system security. My participation in internal cybersecurity competitions demonstrated my expertise in identifying vulnerabilities and securing systems.
 
 ## 📫 Let's Connect
 
 - [Email](themrmm@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mircea-maier-574171348/)
 
-Feel free to connect with me to discuss opportunities for collaboration or to learn more about my experiences and skills!
+
+
+Feel free to connect with me to discuss collaboration opportunities or learn more about my experiences and skills!
 
 Happy coding! 🚀
