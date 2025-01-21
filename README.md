@@ -11,6 +11,11 @@ I actively participate in **Capture The Flag (CTF)** challenges on platforms lik
 
 With a solid foundation in **Python scripting** and **network analysis**, I aspire to contribute as a full-time **Penetration Tester**, defending organizations against emerging cyber threats.
 
+## LinkedIn
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mircea-maier-574171348/)
+
+
 ## Hack The Box Profile
 
 [![Hack The Box Profile](https://img.shields.io/badge/HackTheBox-Profile-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/199315)
